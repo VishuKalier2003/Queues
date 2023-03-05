@@ -1,5 +1,5 @@
 
-# Medium Questions
+# ${Medium \space Questions}$
 
   This Folder provides the sets of Medium Questions related to Queues Data Structures. The problems are ***moderately-difficult*** and ***require basic and a little
   advanced knowledge*** the Queue Data Structure. Some Questions might require the use of ***another Data Structure as well.*** The ***Implementation of the code
@@ -8,13 +8,14 @@
 
 ------
 
-## Questions Table
+## ${Questions \space Table}$
 
-| <b><i>Serial No. | <b><i>Question Short-hand Name | <b><i>Link | ***Status*** | <b><i>Optimization |
+| ${Serial \space No.}$ | ${Question \space Short-hand \space Name}$ | ${Link}$ | ${Status}$ | ${Optimization}$ |
 |-|-|-|-|-|
-| 1. | ***Fruit Basket Problem*** | [:bulb:](https://github.com/VishuKalier2003/DSA---Fruit-Basket-Problem) | <b><i>Completed ✔️ | <b><i>Performed ✔️ |
+| 1. | ***Fruit Basket Problem*** | [:bulb:](https://github.com/VishuKalier2003/DSA---Fruit-Basket-Problem) | <b><i>Completed :heavy_check_mark: | <b><i>Performed ✔️ |
+| 2. | ***Sliding Window Problem*** | [:bulb:](https://github.com/VishuKalier2003/DSA-Sliding-Window-Problem) | <b><i> Completed :heavy_check_mark: | <b><i>Performed :heavy_check_mark: |
 
 -------
 
-## Maintained By
+## ${Maintained \space By}$
 <b><i> Vishu Kalier
