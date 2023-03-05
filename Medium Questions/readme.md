@@ -13,7 +13,7 @@
 | ${Serial \space No.}$ | ${Question \space Short-hand \space Name}$ | ${Link}$ | ${Status}$ | ${Optimization}$ |
 |-|-|-|-|-|
 | 1. | ***Fruit Basket Problem*** | [:bulb:](https://github.com/VishuKalier2003/Queues/blob/main/Medium%20Questions/Fruit-Basket-Problem.md) | <b><i>Completed :heavy_check_mark: | <b><i>Performed ✔️ |
-| 2. | ***Sliding Window Problem*** | [:bulb:](https://github.com/VishuKalier2003/DSA-Sliding-Window-Problem) | <b><i> Completed :heavy_check_mark: | <b><i>Performed :heavy_check_mark: |
+| 2. | ***Sliding Window Problem*** | [:bulb:](https://github.com/VishuKalier2003/Queues/blob/main/Medium%20Questions/Sliding-Window-Problem.md) | <b><i> Completed :heavy_check_mark: | <b><i>Performed :heavy_check_mark: |
 
 -------
 
