@@ -56,7 +56,7 @@ We will create a table and check the allocation of resources for each jump.
 So the farthest building we have reached is ***13*** with the index ***3*** as the output. Also, using resources any other way we cannot reach beyond this building
 index. Thus the output is 3
 
-### Case 2
+### Case 3
 
       Input                                                                    Output
       bricks = 5                                                               Farthest Building Index = 4
