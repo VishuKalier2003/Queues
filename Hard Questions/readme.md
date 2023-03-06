@@ -12,7 +12,7 @@
 
 | ${Serial \space No.}$ | ${Question \space Short-hand \space Name}$ | ${Link}$ | ${Status}$ | ${Optimization}$ |
 |-|-|-|-|-|
-| 1. | <b><i>Trapping Water Problem | :bulb: | <b><i>Completed:heavy_check_mark: | <b><i>Performed:heavy_check_mark: |
+| 1. | <b><i>Trapping Water Problem | [:bulb:](https://github.com/VishuKalier2003/Queues/blob/main/Hard%20Questions/TrappingRainWater.md) | <b><i>Completed:heavy_check_mark: | <b><i>Performed:heavy_check_mark: |
 
 -------
 
