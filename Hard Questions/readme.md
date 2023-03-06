@@ -15,7 +15,7 @@
 | 1. | <b><i>Trapping Water Problem | [:bulb:](https://github.com/VishuKalier2003/Queues/blob/main/Hard%20Questions/TrappingRainWater.md) | <b><i>Completed:heavy_check_mark: | <b><i>Performed:heavy_check_mark: |
 | 2. | <b><i>Keys And Rooms Problem | [:bulb:](https://github.com/VishuKalier2003/Queues/blob/main/Hard%20Questions/KeysAndRoomsProblem.md) | <b><i>Completed:heavy_check_mark: | <b><i>Performed:heavy_check_mark: |
 | 3. | <b><i>Maximum Meetings Room Problem | [:bulb:](https://github.com/VishuKalier2003/Queues/blob/main/Hard%20Questions/MaximumMeetingRoom.md) | <b><i>Completed:heavy_check_mark: | <b><i>Performed:heavy_check_mark: |
-| 4. | <b><i>Farthest Building Problem | [:bulb:](https://github.com/VishuKalier2003/Queues/blob/main/Hard%20Questions/FarthestBuildingReachable.md) | <b><i>Completed:heavy_check_mark: | <b><i>Performed:heavy_check_mark: |
+| 4. | <b><i>Farthest Building Reachable Problem | [:bulb:](https://github.com/VishuKalier2003/Queues/blob/main/Hard%20Questions/FarthestBuildingReachable.md) | <b><i>Completed:heavy_check_mark: | <b><i>Performed:heavy_check_mark: |
 
 
 -------
