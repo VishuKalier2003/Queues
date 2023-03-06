@@ -50,7 +50,7 @@ Since there are three rooms indexed 0, 1 and 2. We will create a table and check
 
 Thus, the lowest index room with maximum meetings is 1.
 
-### Case 1
+### Case 3
 
       Input                                                                    Output
       rooms = 4                                                                maximum meeting room = 2
