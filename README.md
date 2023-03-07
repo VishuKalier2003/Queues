@@ -9,8 +9,8 @@ folder based on the ***difficulty level***.
 | ***Serial No.*** | ***Difficulty Level*** | ***No. of Questions*** |
 |-|-|-|
 | 1. | ***Easy Questions*** | $${0}$$ |
-| 2. | ***Medium Questions*** | $${3}$$ |
-| 3. | ***Hard Questions*** | $${5}$$ |
+| 2. | ***Medium Questions*** | $${2}$$ |
+| 3. | ***Hard Questions*** | $${4}$$ |
 
 
 ## ${Maintained \space By}$
